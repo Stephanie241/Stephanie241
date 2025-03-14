@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steohanie</h1>
+<h1 align="center">Hi 👋, I'm Stephanie</h1>
 <h3 align="center">An enthusiastic Data Engineer, Data Scientist and Data Analyst</h3>
 
 I specialize in building scalable data pipelines, managing migrations, creating insightful visualizations, and developing statistical models. Proficient in Python and SQL, I have hands-on experience with cloud platforms like GCP, Oracle Cloud, and Oracle ERP systems. In my current role at The Independent, I design and automate data pipelines from diverse sources, leveraging data lakes and warehouses to optimize performance. Additionally, I work with big data technologies such as Google BigQuery and Dataflow, while utilizing GCP-native DevOps tools like Cloud Build and Cloud Composer to enhance CI/CD workflows.
