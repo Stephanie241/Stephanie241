@@ -13,7 +13,7 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 <h2 align="center">🚀💻⚙️☁️ Tech Stack 🔗📊🔧🔍</h2>
 
 ### Cloud Platforms:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%23FFD700.svg?style=for-the-badge&logo=google-cloud&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405B.svg?style=for-the-badge&logo=postgresql&logoColor=white)
