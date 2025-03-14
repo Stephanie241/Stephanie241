@@ -30,10 +30,6 @@ Feel free to explore my GitHub profile for more on my projects and contributions
 ### Business Intelligence & Analytics:
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=white) ![Domo](https://img.shields.io/badge/Domo-%23A6D2B4.svg?style=for-the-badge&logo=domo&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-%2312A6C1.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
-### Automation & Workflow Orchestration:
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-
 ### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
