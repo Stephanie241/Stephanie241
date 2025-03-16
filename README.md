@@ -59,7 +59,7 @@ Let's connect on LinkedIn!
 | [Exploratory Data Analysis and Linear Regression Analysis on Life Expectancy Factors](https://github.com/Stephanie241/LinearRegressionProject) | Data Analysis, Statistical Analysis, Data Pre-processing, Data Visualization, Python, numpy, pandas, scikit-learn, matplotlib | This project uses data analysis and linear regression to understand life expectancy factors, offering insights for policymakers and potential improvements through advanced modeling and validation. |
 | [S&P 500 Financial Companies Stock Price Analysis Machine Learning Project](https://github.com/Stephanie241/S-P500MachineLearningProject) | Data Manipulation, Web Scraping, API Integration, Data Visualization, Machine Learning, Statistical Analysis, Python, pandas, requests, matplotlib, scikit-learn, Linear Regression, K-Nearest Neighbors (KNN) Regression, Support Vector Regression (SVR) | This project conducts regression analysis on the weekly adjusted stock prices of the top 5 S&P 500 financial companies, using historical data from Alpha Vantage. It offers visualisation of stock price time series and supports various regression models.
 
-## Certification
+## Certification:
 ### Google Cloud Certified Professional Data Engineer
 ![Google Cloud Professional Data Engineer Certificate](https://github.com/user-attachments/assets/1e16f44a-ca41-4780-9b59-381d4c29337c)
 
