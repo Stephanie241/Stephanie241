@@ -61,7 +61,7 @@ Let's connect on LinkedIn!
 
 ## Certification
 ### Google Cloud Certified Professional Data Engineer
-![Google Cloud Professional Data Engineer Certificate](<img width="806" alt="GCP_Cert" src="https://github.com/user-attachments/assets/1e16f44a-ca41-4780-9b59-381d4c29337c" />)
+![Google Cloud Professional Data Engineer Certificate](https://github.com/user-attachments/assets/1e16f44a-ca41-4780-9b59-381d4c29337c)
 
 
 
