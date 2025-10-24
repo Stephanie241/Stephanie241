@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stephanie 😊 </h1>
 <h3 align="center">An enthusiastic Data Engineer, Data Analyst and Data Scientist. </h3>
 
-I specialize in building scalable data pipelines, managing migrations, creating insightful visualizations, and developing statistical models. Proficient in Python and SQL, I have hands-on experience with cloud platforms like GCP, Oracle Cloud, and Oracle ERP systems. I design and automate data pipelines from diverse sources, leveraging data lakes and warehouses to optimize performance. Additionally, I work with big data technologies such as Google BigQuery and Dataflow, while utilizing GCP-native DevOps tools like Cloud Build and Cloud Composer to enhance CI/CD workflows.
+I specialise in building scalable data pipelines, managing migrations, creating insightful visualizations, and developing statistical models. Proficient in Python and SQL, I have hands-on experience with cloud platforms like GCP, Oracle Cloud, and Oracle ERP systems. I design and automate data pipelines from diverse sources, leveraging data lakes and warehouses to optimize performance. Additionally, I work with big data technologies such as Google BigQuery and Dataflow, while utilizing GCP-native DevOps tools like Cloud Build and Cloud Composer to enhance CI/CD workflows.
 
 My GitHub projects showcase my skills in data engineering, analysis, machine learning, and Retrieval-Augmented Generation (RAG) with vector databases.
 
